@@ -1,0 +1,25 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Flight val1 = new Flight(10);
+		Flight val2 = new Flight(20);
+		
+		swapNumbers(val1, val2);
+		
+		
+		
+		
+		
+		
+		
+		void swapNumbers(Flight i, Flight j) {
+			
+			int k = i.getFlightNumber();
+			i.setFlightNumber(j.getFlightNumber());
+			j.setFlightNumber(k);
+		}
+		
+	}
+
+}

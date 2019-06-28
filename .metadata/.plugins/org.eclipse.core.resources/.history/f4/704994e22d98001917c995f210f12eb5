@@ -1,0 +1,20 @@
+public class typeConv{
+	public static void main(String args []) {
+		
+		int iVal = 10;
+		
+		switch(iVal % 2) {
+			case 0:
+				System.out.println(iVal);
+				System.out.println(" is even");
+				
+			case 1:
+				System.out.println(iVal);
+				System.out.println(" is odd");
+				
+			default:
+				System.out.println("broke");
+		
+		}
+	}
+}

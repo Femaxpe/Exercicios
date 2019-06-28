@@ -1,0 +1,16 @@
+public class Flight{
+	int flghtNuber;
+	
+	public Flight(int flightNumber) {
+		this.flghtNuber = flightNumber;
+		
+		
+	}
+	
+	void swapNumbers(Flight i, Flight j) {
+		
+		int k = i.getFlightNumber();
+		i.setFlightNumber(j.getFlightNumber());
+		j.setFlightNumber(k);
+	}
+}

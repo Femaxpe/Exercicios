@@ -1,0 +1,15 @@
+public class Flight{
+	
+	private int passengers;
+	private int seats;
+	//other members elieded for clarity
+	
+	public int getSeats() {
+		return seats;
+	}
+	
+	public void setSeats(int seats)
+	{
+		this.seats = seats;
+	}
+}

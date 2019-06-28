@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/FelipeGomesDosSantos/Dev/workspace/HelloWorld/target/classes;C:/Users/FelipeGomesDosSantos/.m2/repository/commons-lang/commons-lang/2.1/commons-lang-2.1.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/FelipeGomesDosSantos/Dev/workspace/HelloWorld/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2019. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/FelipeGomesDosSantos/Dev/workspace/HelloWorld/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HelloWorld 1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' 'C:/Users/FelipeGomesDosSantos/Dev/workspace/HelloWorld/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'HelloWorld 1.0-SNAPSHOT API'

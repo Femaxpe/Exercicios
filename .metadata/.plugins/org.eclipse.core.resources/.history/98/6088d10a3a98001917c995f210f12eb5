@@ -1,0 +1,9 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Passenger bob = new Passenger();
+		Passenger jane = new Passenger(2);
+	}
+
+}

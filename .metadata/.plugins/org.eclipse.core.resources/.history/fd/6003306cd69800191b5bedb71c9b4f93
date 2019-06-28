@@ -1,0 +1,16 @@
+public class Flight{
+	
+	public void add1Passenger();{
+		if(hasSeating()) {
+			passengers += 1;
+		}
+		else {
+			handleTooMany();
+		}
+	}
+	
+	private boolean hasSeating() {
+		return passengers < seats;
+	}
+	
+}

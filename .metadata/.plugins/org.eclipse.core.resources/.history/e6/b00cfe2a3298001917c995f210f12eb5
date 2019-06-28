@@ -1,0 +1,9 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		ClassTesting a = new ClassTesting();
+		a.showSum(2.5, 4.5, 4);
+	}
+
+}
